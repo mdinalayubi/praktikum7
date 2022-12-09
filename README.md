@@ -3,7 +3,7 @@
 # NIM : 312210293
 # Kelas : TI 22 A3
 ## TUGAS PRAKTIKUM 7
-![Gambar](praktikum8/tugas.jpeg)
+![Gambar](praktikum7/tugas.jpeg)
 ## Penjelasan
 + Untuk memanggil fungsi dengan nama "os".
 ```python
@@ -129,6 +129,6 @@ while Loop:
         Loop = False
 ```
 ## Hasil Output
-![Gambar](praktikum8/lab1.png)
-![Gambar](praktikum8/lab2.png)
+![Gambar](praktikum7/lab1.png)
+![Gambar](praktikum7/lab2.png)
 ***SELESAI***
